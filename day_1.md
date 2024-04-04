@@ -1,5 +1,5 @@
 
-***cpp
+```cpp
 #include<stdio.h>
 
 int main(void)
@@ -14,4 +14,4 @@ int main(void)
 	printf("%d   %d\n", 10 , 20);
 	return 0;
 }
-***
+```
